@@ -8,3 +8,4 @@ echo 'change into master';
  */
 
 echo 'Hello new branch!!!';
+echo 'Hello, GitHub';
